@@ -3,7 +3,7 @@
 
 Más de cinco años trabajando en farmacia como técnico me enseñaron dónde se pierde el dinero:
 stock parado, roturas, compras y precios decididos sin mirar los datos. Hoy convierto esos
-datos en decisiones de negocio con Python, SQL e IA.
+datos en decisiones de negocio con Python, SQL, Power Bi e IA.
 
 ## Qué hago
 - **Análisis de datos de negocio** — ventas, márgenes, rentabilidad y rotación por
